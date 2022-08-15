@@ -1,0 +1,12 @@
+table, th, td {
+    border: 1px solid black;
+    width : 30px;
+  }
+
+th:hover{
+    background-color: aqua;
+
+}
+td:hover{
+    background-color: blueviolet;
+}
